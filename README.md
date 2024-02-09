@@ -1,4 +1,4 @@
-# points_counter
+# Basketball Points Counter
 
 A new Flutter project.
 
